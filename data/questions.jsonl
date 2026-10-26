@@ -1,0 +1,5 @@
+{"question": "How can spoofed measurement reports attack predictive handover and what defenses exist?", "gold_docs": ["synthetic_handover_attacks", "synthetic_defenses"]}
+{"question": "What accuracy do classifiers achieve detecting DoS floods in 5G?", "gold_docs": ["synthetic_dos"]}
+{"question": "How do prediction errors affect handover?", "gold_docs": ["synthetic_handover_prediction"]}
+{"question": "What are the tradeoffs of authenticating measurement reports?", "gold_docs": ["synthetic_handover_attacks"]}
+{"question": "What is the capital of France?", "gold_docs": []}

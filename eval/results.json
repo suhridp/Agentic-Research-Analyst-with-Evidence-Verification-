@@ -1,0 +1,18 @@
+{
+  "baseline_rag": {
+    "recall@5": 1.0,
+    "recall@10": 1.0,
+    "unsupported_claim_rate": 0.0,
+    "claims": 10,
+    "abstention_accuracy": 1.0,
+    "mean_latency_s": 0.00013909339904785156
+  },
+  "agentic_verified": {
+    "recall@5": 1.0,
+    "recall@10": 1.0,
+    "unsupported_claim_rate": 0.0,
+    "claims": 10,
+    "abstention_accuracy": 1.0,
+    "mean_latency_s": 0.00023775100708007814
+  }
+}

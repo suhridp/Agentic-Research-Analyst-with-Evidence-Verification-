@@ -1,0 +1,2 @@
+# SYNTHETIC SAMPLE DATA for testing only. Replace with real papers.
+Predictive handover uses radio measurements such as RSRP and RSRQ to anticipate cell changes. A recurrent model trained on mobility traces reduced handover failures by 18 percent in the simulated scenario. Prediction errors cause ping-pong handovers and radio link failure. Inter-RAT handover moves a device between access technologies such as 5G and 4G.

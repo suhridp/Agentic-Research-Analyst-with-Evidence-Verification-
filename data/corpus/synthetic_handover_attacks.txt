@@ -1,0 +1,2 @@
+# SYNTHETIC SAMPLE DATA for testing only. Replace with real papers.
+Spoofed measurement reports can manipulate a data-driven handover predictor into selecting a rogue cell. Adversarial perturbation of RSRP values by 6 dB flipped 40 percent of predictions in the simulated study. Authentication of measurement reports reduces the attack surface but adds signaling latency. Rogue base stations remain a threat during inter-RAT transitions.

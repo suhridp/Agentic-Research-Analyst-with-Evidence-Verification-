@@ -1,0 +1,2 @@
+# SYNTHETIC SAMPLE DATA for testing only. Replace with real papers.
+Early detection of denial-of-service traffic in 5G cores relies on flow statistics. A gradient boosted classifier detected DoS floods with 97 percent accuracy on a synthetic dataset. Signaling storms can exhaust control plane resources. Rate limiting mitigates floods but may block legitimate bursts.

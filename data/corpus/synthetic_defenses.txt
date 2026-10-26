@@ -1,0 +1,2 @@
+# SYNTHETIC SAMPLE DATA for testing only. Replace with real papers.
+Adversarial training improved prediction robustness under perturbed measurements. Anomaly detection on measurement reports flagged 92 percent of spoofed reports at a 3 percent false positive rate. Ensemble predictors reduce sensitivity to a single manipulated input. Defenses that add signaling overhead must be weighed against handover latency budgets.
