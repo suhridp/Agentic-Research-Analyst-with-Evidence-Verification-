@@ -1,0 +1,2 @@
+streamlit>=1.30   # optional UI only
+pytest>=7         # tests only
